@@ -15,33 +15,28 @@ I'm actively working toward becoming a top-tier AI/ML engineer. Solving LeetCode
 ## 📂 Repository Structure
 
 leetcode-dsa_solutions/
-│
-├── Easy/
-│   ├── 1.Two_Sum.py
-│   ├── 7.Reverse_Integer.py
-│   └── ...
-│
-├── Medium/
-│   ├── 2.Add_Two_Numbers.py
-│   ├── 3.Longest_Substring_Without_Repeating_Characters.py
-│   └── ...
-│
-├── Hard/
-│   ├── 4.Median_of_Two_Sorted_Arrays.py
-│   └── ...
-│
-├── DayWise_Problem_Solutions/
-│   ├── Day1/
-│   ├── Day2/
-│   └── ...
-│
-├── TopicWise_Problems/
-│   ├── Array/
-│   ├── String/
-│   ├── LinkedList/
-│   └── ...
-│
-└── README.md
+- Easy/
+  - 1.Two_Sum.py
+  - 7.Reverse_Integer.py
+  - ...
+- Medium/
+  - 2.Add_Two_Numbers.py
+  - 3.Longest_Substring_Without_Repeating_Characters.py
+  - ...
+- Hard/
+  - 4.Median_of_Two_Sorted_Arrays.py
+  - ...
+- DayWise_Problem_Solutions/
+  - Day1/
+  - Day2/
+  - ...
+- TopicWise_Problems/
+  - Array/
+  - String/
+  - LinkedList/
+  - ...
+- README.md
+
 
 ---
 
