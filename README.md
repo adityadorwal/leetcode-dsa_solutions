@@ -15,8 +15,11 @@ I'm actively working toward becoming a top-tier AI/ML engineer. Solving LeetCode
 ## 📂 Repository Structure
 
 leetcode-dsa_solutions/
+
 │
+
 ├── Easy/
+
 │   ├── 1.Two_Sum.py
 │   ├── 7.Reverse_Integer.py
 │   └── ...
