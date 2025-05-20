@@ -88,6 +88,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
@@ -151,6 +152,7 @@ This project is open-source under the MIT License.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -160,4 +162,8 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
