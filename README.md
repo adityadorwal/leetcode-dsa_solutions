@@ -84,12 +84,14 @@ This project is open-source under the MIT License.
 | [0217-contains-duplicate](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0239-sliding-window-maximum) |
+| [0560-subarray-sum-equals-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -119,6 +121,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
