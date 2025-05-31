@@ -142,6 +142,7 @@ This project is open-source under the MIT License.
 | [0005-longest-palindromic-substring](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
@@ -181,6 +182,7 @@ This project is open-source under the MIT License.
 | [0005-longest-palindromic-substring](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
@@ -188,4 +190,8 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
