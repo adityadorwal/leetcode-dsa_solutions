@@ -179,7 +179,12 @@ This project is open-source under the MIT License.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
