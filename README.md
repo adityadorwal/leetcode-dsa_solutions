@@ -77,6 +77,7 @@ This project is open-source under the MIT License.
 | [0015-3sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0152-maximum-product-subarray) |
@@ -90,6 +91,7 @@ This project is open-source under the MIT License.
 | ------- |
 | [0001-two-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -118,6 +120,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
@@ -176,6 +179,7 @@ This project is open-source under the MIT License.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
