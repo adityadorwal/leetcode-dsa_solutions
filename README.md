@@ -113,6 +113,7 @@ This project is open-source under the MIT License.
 | [0053-maximum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +141,7 @@ This project is open-source under the MIT License.
 | [0015-3sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0125-valid-palindrome) |
+| [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -175,4 +177,5 @@ This project is open-source under the MIT License.
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0125-valid-palindrome) |
+| [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
