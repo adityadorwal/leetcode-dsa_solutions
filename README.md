@@ -153,6 +153,7 @@ This project is open-source under the MIT License.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -182,6 +183,7 @@ This project is open-source under the MIT License.
 | [0005-longest-palindromic-substring](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0125-valid-palindrome) |
