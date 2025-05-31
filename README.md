@@ -137,6 +137,7 @@ This project is open-source under the MIT License.
 | [0011-container-with-most-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -170,4 +171,5 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
