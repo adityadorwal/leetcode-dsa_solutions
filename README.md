@@ -98,6 +98,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -108,6 +109,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
