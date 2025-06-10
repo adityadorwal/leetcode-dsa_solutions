@@ -93,6 +93,7 @@ This project is open-source under the MIT License.
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -101,6 +102,7 @@ This project is open-source under the MIT License.
 | [0002-add-two-numbers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -152,6 +154,7 @@ This project is open-source under the MIT License.
 | [0042-trapping-rain-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
