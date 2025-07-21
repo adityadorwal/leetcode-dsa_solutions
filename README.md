@@ -123,6 +123,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -202,6 +203,7 @@ This project is open-source under the MIT License.
 | [0008-string-to-integer-atoi](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0076-minimum-window-substring) |
@@ -215,4 +217,8 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
