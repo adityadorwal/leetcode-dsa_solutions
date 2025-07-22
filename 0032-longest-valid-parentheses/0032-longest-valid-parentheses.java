@@ -1,40 +1,24 @@
 class Solution {
-    public int longestValidParentheses(String s) {
-        Stack <Integer> stk = new Stack<Integer>();
-        Stack <Integer> covered = new Stack<Integer>();
-        int i,l=s.length(),t;
-        for(i=0;i<l;i++)
+    public int longestValidParentheses(String s)
+    {
+        Stack<Integer> stack = new Stack<>();
+        stack.push(-1);
+        int maxLen = 0;
+        char ch;
+        for (int i = 0; i < s.length(); i++)
         {
-            if(s.charAt(i)=='(')
-            stk.push(i);
-            else if (!stk.isEmpty())
-            {
-                stk.pop();
-                covered.push(i);
-            }
-        }
-        int max=0,temp=0,a,b,open=0,close;
-        while(!covered.isEmpty())
-        {
-            a=covered.pop();
-            open++;
-            while((!covered.isEmpty()) && (covered.peek()==a-1))
-            {
-                a=covered.pop();
-                open++;
-            }
-            if(!covered.isEmpty())close = a-covered.peek()-1;
-            else close = a;
-            temp=temp+(((open>=close)?close:open)*2);
-            max = (temp>max)?temp:max;
-            if(close>open)
-            {
-                temp=0;
-                open =0;
-            }
+            ch = s.charAt(i);
+            if (ch == '(')
+            stack.push(i);
             else
-            open=open-close;
+            {
+                stack.pop();
+                if (stack.isEmpty())
+                stack.push(i);
+                else
+                maxLen = Math.max(maxLen, i - stack.peek());
+            }
         }
-        return(max);
+        return maxLen;
     }
 }
