@@ -14,7 +14,6 @@ class Solution {
             }
         }
         int max=0,temp=0,a,b,open=0,close;
-        System.out.println(covered);
         while(!covered.isEmpty())
         {
             a=covered.pop();
@@ -24,11 +23,8 @@ class Solution {
                 a=covered.pop();
                 open++;
             }
-            if(!covered.isEmpty())
-            close = a-covered.peek()-1;
-            else
-            close = a;
-
+            if(!covered.isEmpty())close = a-covered.peek()-1;
+            else close = a;
             temp=temp+(((open>=close)?close:open)*2);
             max = (temp>max)?temp:max;
             if(close>open)
