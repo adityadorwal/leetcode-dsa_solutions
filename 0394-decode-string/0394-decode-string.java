@@ -13,7 +13,7 @@ class Solution {
                 result = result + (decodeString(s)).repeat(Integer.parseInt(num));
                 num="";
             }
-            else if(ch >= '0' && ch <= '9')
+            else if(Character.isDigit(ch))//(ch >= '0' && ch <= '9')
             num = num+ch;
             else if(ch==']')
             return(result);
