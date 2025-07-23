@@ -1,7 +1,4 @@
 class Solution {
-    Stack <Character> stk = new Stack<>();
-    Stack <String> sub = new Stack<>();
-
     public String iter(String s, int n)
     {
         if (n==1)return s;
