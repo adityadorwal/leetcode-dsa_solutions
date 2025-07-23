@@ -41,7 +41,6 @@ class Solution {
             while(temp!=null)
             {
                 del.next = temp;
-                System.out.print(key);
                 temp=temp.next;
                 del=del.next;
             }
