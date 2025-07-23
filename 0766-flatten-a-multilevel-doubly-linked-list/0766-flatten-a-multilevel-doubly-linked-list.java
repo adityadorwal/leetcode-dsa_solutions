@@ -51,19 +51,6 @@ class Solution {
                 curr.prev = temp;
             }
         }
-        curr = head;
-        while(curr != null)
-        {
-            System.out.print(curr.val+" ");
-            temp = curr;
-            curr = curr.next;
-        }
-        System.out.println(curr);
-        while(temp != head && temp!=null)
-        {
-            System.out.print(temp.val+" ");
-            temp = temp.prev;
-        }
         return head;
     }
 }
