@@ -17,7 +17,7 @@ class Solution {
             if(s.charAt(start)=='[')
             {
                 start++;
-                if(num=="")num="1";
+                // if(num=="")num="1";
                 result = result + iter(decodeString(s),Integer.parseInt(num));
                 num="";
             }
