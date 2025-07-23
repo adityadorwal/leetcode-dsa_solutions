@@ -1,11 +1,5 @@
 class Solution {
-    public String iter(String s, int n)
-    {
-        if (n==1)return s;
-        return (s+iter(s,n-1));
-    }
     int start=0;
-
     public String decodeString(String s) {
         int l=s.length();
         String str="",num="",result="";
@@ -14,7 +8,7 @@ class Solution {
             if(s.charAt(start)=='[')
             {
                 start++;
-                result = result + iter(decodeString(s),Integer.parseInt(num));
+                result = result + (decodeString(s)).repeat(Integer.parseInt(num));
                 num="";
             }
             else if(Character.isDigit(s.charAt(start)))
