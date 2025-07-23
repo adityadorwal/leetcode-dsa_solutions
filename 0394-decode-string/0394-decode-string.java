@@ -1,8 +1,8 @@
 class Solution {
     int start=0;
     public String decodeString(String s) {
-        int l=s.length();
-        String num="",result="";
+        int l=s.length(),num=0;
+        String result="";
         char ch;
         while(start<l)
         {
@@ -10,11 +10,11 @@ class Solution {
             if(ch=='[')
             {
                 start++;
-                result = result + (decodeString(s)).repeat(Integer.parseInt(num));
-                num="";
+                result = result + (decodeString(s)).repeat(num);
+                num=0;
             }
-            else if(Character.isDigit(ch))//(ch >= '0' && ch <= '9')
-            num = num+ch;
+            else if(Character.isDigit(ch))
+            num = num*10+(ch-'0');
             else if(ch==']')
             return(result);
             else
