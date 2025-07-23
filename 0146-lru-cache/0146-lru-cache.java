@@ -7,7 +7,7 @@ class LRUCache {
     
     public int get(int key) {
         if (!map.containsKey(key))
-        return -1;
+        return -1;  
         int value = map.remove(key);
         put(key,value);
         return(value);
@@ -15,19 +15,13 @@ class LRUCache {
     
     public void put(int key, int value) {
         if (map.containsKey(key))
-        {
-            map.remove(key);
-            map.put(key,value);
-        }
-        else if(max_capacity != map.size())
-        {
-            map.put(key,value);
-        }
-        else
+        map.remove(key);
+        else if(max_capacity == map.size())
         {
             map.remove(map.keySet().iterator().next());
             map.put(key,value);
         }
+        map.put(key,value);
     }
 }
 
