@@ -25,6 +25,7 @@ class Solution {
                 curr.child.prev = curr;
                 curr.child = null;
                 curr = temp.next;
+                
                 if(curr!=null)
                 curr.prev = temp;
                 prevnode = temp;
