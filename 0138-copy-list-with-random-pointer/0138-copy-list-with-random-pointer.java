@@ -18,8 +18,6 @@ class Solution {
         Map <Integer,Node> m1 = new HashMap<>();
         Map <Node,Integer> m2 = new HashMap<>();
         Map <Integer,Node> m3 = new HashMap<>();
-
-
         Node dummy = new Node(0);
         Node Copied_head = dummy;
         int i=0;
@@ -29,18 +27,12 @@ class Solution {
             dummy.next = node;
             dummy = dummy.next;
             m3.put(i,dummy);
-
             m2.put(head,i);
             m1.put(i,head.random);
-
-
             i++;
             head = head.next;
         }
         dummy = Copied_head.next;
-        System.out.println(m2);
-        System.out.println(m1);
-        System.out.println(m3);
         for (int j=0;j<i;j++)
         {
             head = m1.get(j);
