@@ -2,21 +2,23 @@ class Solution {
     int start=0;
     public String decodeString(String s) {
         int l=s.length();
-        String str="",num="",result="";
+        String num="",result="";
+        char ch;
         while(start<l)
         {
-            if(s.charAt(start)=='[')
+            ch = s.charAt(start);
+            if(ch=='[')
             {
                 start++;
                 result = result + (decodeString(s)).repeat(Integer.parseInt(num));
                 num="";
             }
-            else if(Character.isDigit(s.charAt(start)))
-            num = num+s.charAt(start);
-            else if(s.charAt(start)==']')
+            else if(ch >= '0' && ch <= '9')
+            num = num+ch;
+            else if(ch==']')
             return(result);
             else
-            result+=s.charAt(start);
+            result+=ch;
 
             start++;
         }
