@@ -25,8 +25,7 @@ class LRUCache {
         }
         else
         {
-            int firstKey = map.keySet().iterator().next();
-            map.remove(firstKey);
+            map.remove(map.keySet().iterator().next());
             map.put(key,value);
         }
     }
