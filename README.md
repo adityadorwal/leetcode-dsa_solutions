@@ -257,6 +257,7 @@ This project is open-source under the MIT License.
 | [0100-same-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Tree
@@ -265,6 +266,7 @@ This project is open-source under the MIT License.
 | [0100-same-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -278,6 +280,7 @@ This project is open-source under the MIT License.
 | [0100-same-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
