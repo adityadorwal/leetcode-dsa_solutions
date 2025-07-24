@@ -20,18 +20,8 @@ class Solution {
         if ((root == null || subRoot == null) || (root.val != subRoot.val))return false;
         return(check(root.left,subRoot.left) && check(root.right,subRoot.right));
     }
-    // public check_get_all_common(TreeNode root,int val)
-    // {
-    //     if(root==null || subRoot == null)
-    //     return false;
-    //     if(root.val == subRoot.val)
-    //     if((check(root,subRoot)+" "+root.val+" "+subRoot.val) == true)return true;
-    //     return(isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot)); 
-
-    // }
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        if(root==null || subRoot == null)
-        return false;
+        if(root==null || subRoot == null)return false;
         if(root.val == subRoot.val)
         if(check(root,subRoot) == true)return true;
         return(isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot)); 
