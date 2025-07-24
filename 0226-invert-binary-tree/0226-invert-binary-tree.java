@@ -19,11 +19,12 @@ class Solution {
         return null;
 
         TreeNode left=null,right=null;
+        
         if(root.left != null)
         left = invertTree(root.left);
         if(root.right != null)
         right = invertTree(root.right);
-        
+
         root.left = right;
         root.right = left;
         return root;
