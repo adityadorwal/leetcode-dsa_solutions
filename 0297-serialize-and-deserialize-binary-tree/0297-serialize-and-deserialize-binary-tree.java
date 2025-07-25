@@ -47,8 +47,7 @@ public class Codec {
         String [] result = data.split(",");
         if(result[0] .equals("null"))return null;
 
-        TreeNode root = new TreeNode();
-        root.val = Integer.parseInt(result[0]);
+        TreeNode root = new TreeNode(Integer.parseInt(result[0]));
 
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
