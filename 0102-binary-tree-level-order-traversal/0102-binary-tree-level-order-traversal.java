@@ -21,10 +21,10 @@ class Solution {
 
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
-        int i;
+        int i,queue_size;
         while(!queue.isEmpty())
         {
-            int queue_size = queue.size();
+            queue_size = queue.size();
             List<Integer> inner = new ArrayList<>();
             for(i=0;i<queue_size;i++)
             {
