@@ -8,7 +8,7 @@
 //  * }
 //  */
 
-//***********************Working but uses more space and time complexity******************** */
+//***********************Working but uses more space and time complexity((BY BFS))******************** */
 // public class Codec {
 
 //     // Encodes a tree to a single string.
@@ -100,69 +100,113 @@
  */
 
 
- //**************************More ENhanced and fast version************************** */
+ //**************************More ENhanced and fast version((BY BFS))************************** */
+// public class Codec {
+
+//     // Encodes a tree to a single string.
+//     public String serialize(TreeNode root) {
+//         if (root == null) return "null";
+
+//         StringBuilder sb = new StringBuilder();
+//         Queue<TreeNode> queue = new LinkedList<>();
+//         queue.offer(root);
+
+//         while (!queue.isEmpty())
+//         {
+//             TreeNode node = queue.poll();
+
+//             if (node == null)
+//             {
+//                 sb.append("null,");
+//                 continue;
+//             }
+
+//             sb.append(node.val).append(",");
+//             queue.offer(node.left);
+//             queue.offer(node.right);
+//         }
+//         String[] parts = sb.toString().split(",");
+//         int end = parts.length - 1;
+//         while (end >= 0 && parts[end].equals("null"))
+//         {
+//             end--;
+//         }
+
+//         return String.join(",", Arrays.copyOfRange(parts, 0, end + 1));
+//     }
+
+//     // Decodes your encoded data to tree.
+//     public TreeNode deserialize(String data) {
+//         if (data.equals("null")) return null;
+
+//         String[] parts = data.split(",");
+//         TreeNode root = new TreeNode(Integer.parseInt(parts[0]));
+//         Queue<TreeNode> queue = new LinkedList<>();
+//         queue.offer(root);
+
+//         int i = 1;
+//         while (!queue.isEmpty() && i < parts.length)
+//         {
+//             TreeNode node = queue.poll();
+
+//             if (i < parts.length && !parts[i].equals("null"))
+//             {
+//                 node.left = new TreeNode(Integer.parseInt(parts[i]));
+//                 queue.offer(node.left);
+//             }
+//             i++;
+
+//             if (i < parts.length && !parts[i].equals("null"))
+//             {
+//                 node.right = new TreeNode(Integer.parseInt(parts[i]));
+//                 queue.offer(node.right);
+//             }
+//             i++;
+//         }
+//         return root;
+//     }
+// }
+
+
+
+//*****************************************SAme Functionality by DFS using recursion***************************************** */
 public class Codec {
 
-    // Encodes a tree to a single string.
+    // Encodes a tree to a single string using preorder DFS.
     public String serialize(TreeNode root) {
-        if (root == null) return "null";
-
         StringBuilder sb = new StringBuilder();
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
+        serializeDFS(root, sb);
+        return sb.toString();
+    }
 
-        while (!queue.isEmpty())
+    public void serializeDFS(TreeNode node, StringBuilder sb) {
+        if (node == null)
         {
-            TreeNode node = queue.poll();
-
-            if (node == null)
-            {
-                sb.append("null,");
-                continue;
-            }
-
-            sb.append(node.val).append(",");
-            queue.offer(node.left);
-            queue.offer(node.right);
+            sb.append("null,");
+            return;
         }
-        String[] parts = sb.toString().split(",");
-        int end = parts.length - 1;
-        while (end >= 0 && parts[end].equals("null"))
-        {
-            end--;
-        }
-
-        return String.join(",", Arrays.copyOfRange(parts, 0, end + 1));
+        sb.append(node.val).append(",");
+        serializeDFS(node.left, sb);
+        serializeDFS(node.right, sb);
     }
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        if (data.equals("null")) return null;
-
         String[] parts = data.split(",");
-        TreeNode root = new TreeNode(Integer.parseInt(parts[0]));
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
+        Deque<String> nodes = new ArrayDeque<>(Arrays.asList(parts));
+        return deserializeDFS(nodes);
+    }
 
-        int i = 1;
-        while (!queue.isEmpty() && i < parts.length)
-        {
-            TreeNode node = queue.poll();
+    public TreeNode deserializeDFS(Deque<String> nodes) {
+        if (nodes.isEmpty()) return null;
 
-            if (i < parts.length && !parts[i].equals("null"))
-            {
-                node.left = new TreeNode(Integer.parseInt(parts[i]));
-                queue.offer(node.left);
-            }
-            i++;
+        String val = nodes.poll();
+        if (val.equals("null")) return null;
 
-            if (i < parts.length && !parts[i].equals("null"))
-            {
-                node.right = new TreeNode(Integer.parseInt(parts[i]));
-                queue.offer(node.right);
-            }
-            i++;
-        }
-        return root;
+        TreeNode node = new TreeNode(Integer.parseInt(val));
+        node.left = deserializeDFS(nodes);
+        node.right = deserializeDFS(nodes);
+
+        return node;
     }
 }
