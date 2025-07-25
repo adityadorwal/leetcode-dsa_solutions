@@ -21,18 +21,18 @@ class Solution {
 
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
+        int i;
         while(!queue.isEmpty())
         {
-            Queue<TreeNode> new_queue = new LinkedList<>();
+            int queue_size = queue.size();
             List<Integer> inner = new ArrayList<>();
-            while(!queue.isEmpty())
+            for(i=0;i<queue_size;i++)
             {
                 TreeNode temp=queue.poll();
-                if(temp.left!=null)new_queue.offer(temp.left);
-                if(temp.right!=null)new_queue.offer(temp.right);
+                if(temp.left!=null)queue.offer(temp.left);
+                if(temp.right!=null)queue.offer(temp.right);
                 inner.add(temp.val);
             }
-            queue = new_queue;
             list.add(inner);
         }
         return list;
