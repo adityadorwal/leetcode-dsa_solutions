@@ -20,6 +20,7 @@
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> list = new ArrayList<>();
         if(root == null)return list;
+
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
         while(!queue.isEmpty())
@@ -39,7 +40,6 @@
         return list;
     }
 }
-
 
  // **********************without making any new Queue everytime***********************************
 // class Solution {
