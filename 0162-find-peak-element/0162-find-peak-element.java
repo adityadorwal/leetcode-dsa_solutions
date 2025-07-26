@@ -18,11 +18,8 @@ class Solution {
                 l--;
             }
             else l-=1;
-            System.out.println(i+" "+l);
         }
-        System.out.println("hey");
         if(nums[0]>nums[1])return 0;
-        System.out.println("hey");
         return z;
     }
 }
