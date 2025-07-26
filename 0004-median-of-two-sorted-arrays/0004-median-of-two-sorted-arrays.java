@@ -10,7 +10,6 @@ class Solution {
             if(nums1[i]<=nums2[j])num2=nums1[i++];
             else num2 = nums2[j++];
             k++;
-            System.out.println(k+"  "+num1+" "+num2);
         }
         while(i<len1 && k!=median_pos)
         {
