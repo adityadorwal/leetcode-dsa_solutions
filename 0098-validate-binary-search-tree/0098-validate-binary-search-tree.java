@@ -24,8 +24,9 @@ class Solution {
                 stk.push(root);
                 root= root.left;
             }
-            if (temp!=null && temp.val>=stk.peek().val)return false;
-            temp = stk.pop();
+            root = stk.pop();
+            if (temp!=null && temp.val>=root.val)return false;
+            temp = root;
             root = temp.right;
         }
         return true;
