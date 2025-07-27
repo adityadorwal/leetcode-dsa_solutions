@@ -275,6 +275,7 @@ This project is open-source under the MIT License.
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -286,6 +287,7 @@ This project is open-source under the MIT License.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -306,6 +308,7 @@ This project is open-source under the MIT License.
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -322,4 +325,8 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0074-search-a-2d-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
