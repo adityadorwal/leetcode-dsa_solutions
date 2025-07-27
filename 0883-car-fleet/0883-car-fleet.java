@@ -14,7 +14,6 @@ class Solution {
         Arrays.sort(match,(a,b)->Double.compare(b[0],a[0]));
         for(int i=0;i<n;i++)
         {
-            System.out.println(match[i][1]);
             if((stk.isEmpty()) || (match[i][1]>stk.peek()))
             stk.push(match[i][1]);
         }
