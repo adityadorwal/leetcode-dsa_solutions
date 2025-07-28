@@ -25,7 +25,7 @@ class Solution{
             int max = Math.max(left,right);
             arr.add(max);
             arr.add(max+root.val);
-            arr.add(root.val);
+            // arr.add(root.val);
             arr.add(left+right+root.val);
             return(Math.max(root.val,max+root.val));
         }
@@ -34,7 +34,7 @@ class Solution{
             int left = all_path_sum(root.left,arr);
             arr.add(left);
             arr.add(left+root.val);
-            arr.add(root.val);
+            // arr.add(root.val);
             return(Math.max(root.val,left+root.val));
         }
         else
@@ -42,7 +42,7 @@ class Solution{
             int right = all_path_sum(root.right,arr);
             arr.add(right);
             arr.add(right+root.val);
-            arr.add(root.val);
+            // arr.add(root.val);
             return(Math.max(root.val,right+root.val));
         }
     }
