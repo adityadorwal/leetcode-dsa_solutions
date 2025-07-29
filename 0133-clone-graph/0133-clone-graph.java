@@ -32,22 +32,17 @@ class Solution {
 
         while(!queue.isEmpty())
         {
-            int len = queue.peek().neighbors.size();
-            Node curr_node = queue.poll();
+            Node curr = queue.poll();
+            Node currClone = map.get(curr);
 
-            for(int i=0;i<len;i++)
+            for (Node neighbor : curr.neighbors)
             {
-                Node neigh = curr_node.neighbors.get(i);
-
-                if(map.containsKey(neigh))
-                map.get(curr_node).neighbors.add(map.get(neigh));
-                else
+                if (!map.containsKey(neighbor))
                 {
-                    Node copied_node = new Node(neigh.val);
-                    map.get(curr_node).neighbors.add(copied_node);
-                    queue.offer(neigh);
-                    map.put(neigh,copied_node);
+                    map.put(neighbor, new Node(neighbor.val));
+                    queue.offer(neighbor);
                 }
+                currClone.neighbors.add(map.get(neighbor));
             }
         }
         return map.get(node);
