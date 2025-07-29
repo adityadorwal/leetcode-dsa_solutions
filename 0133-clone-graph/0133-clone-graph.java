@@ -22,7 +22,7 @@ class Solution {
     public Node cloneGraph(Node node) {
         
         HashMap<Node,Node> map = new HashMap<>();
-        Queue<Node> queue = new LinkedList<>();
+        Deque<Node> queue = new LinkedList<>();
 
         if(node == null)return null;
 
