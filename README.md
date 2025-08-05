@@ -212,6 +212,7 @@ This project is open-source under the MIT License.
 | [0020-valid-parentheses](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0496-next-greater-element-i) |
@@ -289,6 +290,7 @@ This project is open-source under the MIT License.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0101-symmetric-tree) |
@@ -304,6 +306,7 @@ This project is open-source under the MIT License.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0101-symmetric-tree) |
@@ -329,6 +332,7 @@ This project is open-source under the MIT License.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0101-symmetric-tree) |
