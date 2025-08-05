@@ -26,7 +26,7 @@ class Solution {
         ListNode temp=head;
         while (list1!=null && list2!=null)
         {
-            if(temp.val<=list1.val && list1.val<list2.val)
+            if(list1.val<list2.val)
             {
                 temp.next = list1;
                 temp=temp.next;
