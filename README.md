@@ -118,6 +118,7 @@ This project is open-source under the MIT License.
 | [0021-merge-two-sorted-lists](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0146-lru-cache) |
