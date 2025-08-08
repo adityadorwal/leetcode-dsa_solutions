@@ -300,6 +300,7 @@ This project is open-source under the MIT License.
 | [0100-same-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0226-invert-binary-tree) |
@@ -319,6 +320,7 @@ This project is open-source under the MIT License.
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -346,6 +348,7 @@ This project is open-source under the MIT License.
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
