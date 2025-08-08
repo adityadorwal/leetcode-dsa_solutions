@@ -20,6 +20,7 @@ class TimeMap {
             int left = 0;
             ArrayList<Integer> arr = map.get(key);
             int right = arr.size()-1;
+
             while(left<=right)
             {
                 int mid = left + (right - left)/2;
@@ -29,7 +30,7 @@ class TimeMap {
                 else 
                 right = mid-1;
             }
-            if (right == -1)return "";
+            if(right>=0)
             return(val.get(arr.get(right)));
         }
         return "";
