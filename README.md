@@ -140,6 +140,7 @@ This project is open-source under the MIT License.
 | [0009-palindrome-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
@@ -148,6 +149,7 @@ This project is open-source under the MIT License.
 | [0021-merge-two-sorted-lists](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0394-decode-string) |
 ## Dynamic Programming
@@ -389,4 +391,8 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
