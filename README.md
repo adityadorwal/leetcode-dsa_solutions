@@ -193,6 +193,7 @@ This project is open-source under the MIT License.
 | [0053-maximum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -410,5 +411,6 @@ This project is open-source under the MIT License.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
