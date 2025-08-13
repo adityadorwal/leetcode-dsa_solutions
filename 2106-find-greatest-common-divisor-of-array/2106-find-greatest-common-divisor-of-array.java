@@ -6,8 +6,6 @@ class Solution {
             min = Math.min(min,i);
             max = Math.max(max,i);
         }
-        System.out.println(min);
-        System.out.println(max);
         while(min!=0)
         {
             int t = min;
