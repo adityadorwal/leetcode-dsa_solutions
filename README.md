@@ -145,6 +145,7 @@ This project is open-source under the MIT License.
 | [0009-palindrome-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0412-fizz-buzz) |
