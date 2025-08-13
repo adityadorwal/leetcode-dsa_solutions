@@ -149,6 +149,7 @@ This project is open-source under the MIT License.
 | [0172-factorial-trailing-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0412-fizz-buzz) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Recursion
@@ -160,6 +161,7 @@ This project is open-source under the MIT License.
 | [0206-reverse-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
