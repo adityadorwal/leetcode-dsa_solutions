@@ -22,14 +22,8 @@ class Solution {
         {
             arr[i[0]-1] += i[2];
             if(i[1]<n) arr[i[1]] -= i[2];
-
-            // for(int j:arr)System.out.print(j + " ");
-            System.out.println();
         }
-        for(int i=1;i<n;i++)
-        {
-            arr[i] = arr[i]+arr[i-1];
-        }
+        for(int i=1;i<n;i++)arr[i] = arr[i]+arr[i-1];
         return arr;
     }
 }
