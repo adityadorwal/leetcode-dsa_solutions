@@ -296,6 +296,7 @@ This project is open-source under the MIT License.
 | [0412-fizz-buzz](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1023-time-based-key-value-store) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
 | ------- |
