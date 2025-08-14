@@ -12,6 +12,6 @@ class Solution {
                 if(s=='9')return(""+s+s+s);
             }
         }
-        return ((s==' ')?"":(""+s+s+s));
+        return ((s==' ')?"":""+s+s+s);
     }
 }
