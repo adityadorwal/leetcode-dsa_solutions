@@ -11,7 +11,6 @@ class Solution {
             {
                 s=a;
                 z=i-2;
-                if(s=='9')return (num.substring(z,z+3));
             }
         }
         if(z==-1)return"";
