@@ -7,7 +7,7 @@ class Solution {
         {
             prefix += i;
             if(map.containsKey(prefix-k))count+=map.get(prefix-k);
-            map.put(prefix,map.getOrDefault(i-k,0)+1);
+            map.put(prefix,map.getOrDefault(prefix,0)+1);
         }
         return count;
     }
