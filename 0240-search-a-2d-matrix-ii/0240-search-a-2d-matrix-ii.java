@@ -27,7 +27,7 @@ class Solution {
         {
             if(i[0]<=target)
             {
-                if(search_row(i, target , 0 , row_len))return true;
+                if(search_row(i, target , 0 , left))return true;
             }
             else
             return false;
