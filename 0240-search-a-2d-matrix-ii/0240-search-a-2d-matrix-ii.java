@@ -22,7 +22,6 @@ class Solution {
             else if(matrix[0][mid] < target)left = mid+1;
             else right = mid-1;
         }
-        row_len = left;
         for(int []i : matrix)
         {
             if(i[0]<=target)
