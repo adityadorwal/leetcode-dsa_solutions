@@ -22,13 +22,11 @@ class Solution {
             else if(matrix[0][mid] < target)left = mid+1;
             else right = mid-1;
         }
-        row_len = (left < row_len)?left+1:left;
-        System.out.println(row_len);
+        row_len = (left < row_len)?left:left;
         for(int []i : matrix)
         {
             if(i[0]<=target)
             {
-                System.out.println(i[0] + " "+ i[row_len-1]);
                 if(search_row(i, target , 0 , row_len))return true;
             }
             else
