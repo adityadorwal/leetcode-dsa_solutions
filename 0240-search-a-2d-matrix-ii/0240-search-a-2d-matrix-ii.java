@@ -23,6 +23,7 @@ class Solution {
             else right = mid-1;
         }
         row_len = (left < row_len)?left+1:left;
+        System.out.println(row_len);
         for(int []i : matrix)
         {
             if(i[0]<=target)
