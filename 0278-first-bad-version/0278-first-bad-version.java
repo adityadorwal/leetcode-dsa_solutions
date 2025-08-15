@@ -9,7 +9,6 @@ public class Solution extends VersionControl {
             int mid = a+(n-a)/2;
             if(isBadVersion(mid))n=mid-1;
             else a=mid+1;
-            System.out.println(a+" "+mid+" "+n);
         }
         return a;
     }
