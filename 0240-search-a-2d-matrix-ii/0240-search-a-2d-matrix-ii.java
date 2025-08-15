@@ -11,10 +11,10 @@ class Solution {
         if(left<arr.length)return arr[left] == target;
         return false;
     }
-    
     public boolean searchMatrix(int[][] matrix, int target) {
-        int left=0 , right = matrix[0].length;
-
+        int row_len = matrix[0].length , col_len = matrix.length;
+        
+        int left=0 , right = row_len;
         while(left<right)
         {
             int mid = left + (right-left)/2;
@@ -22,14 +22,14 @@ class Solution {
             else if(matrix[0][mid] < target)left = mid+1;
             else right = mid-1;
         }
-
         for(int []i : matrix)
         {
             if(i[0]<=target)
             {
                 if(search_row(i, target , 0 , left))return true;
             }
-            else return false;
+            else
+            return false;
         }
         return false;
     }
