@@ -8,10 +8,12 @@ class Solution {
             if(nums[mid] == target)
             {
                 int left_arr[] = search(nums , target , left , mid-1);
+
                 if(left_arr[0] ==-1)arr[0] = mid;
                 else arr[0] = left_arr[0];
 
                 int right_arr[] = search(nums , target , mid+1 , right);
+                
                 if(right_arr[1] ==-1)arr[1] = mid;
                 else arr[1] = right_arr[1];
             }
