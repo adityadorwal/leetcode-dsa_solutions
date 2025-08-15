@@ -3,9 +3,11 @@ class Solution {
         int left =0, right = nums.length-1;
         while(left<=right)
         {
-            int mid = left + (right-left)/2;
-            if(nums[mid]==target || nums[left] == target || nums[right] == target)return true;
+            if(nums[left] == target || nums[right] ==target)return true;
 
+            int mid = left + (right-left)/2;
+            if(nums[mid]==target)return true;
+            
             if(nums[mid] == nums[left] && nums[left] == nums[right])
             {
                 left++;
