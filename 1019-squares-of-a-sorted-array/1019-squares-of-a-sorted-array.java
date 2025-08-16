@@ -11,12 +11,10 @@ class Solution {
             {
                 result[k--] = num2;
                 right--;
+                continue;
             }
-            else
-            {
-                result[k--] = num1;
-                left++;
-            }
+            result[k--] = num1;
+            left++;
         }
         return result;
     }
