@@ -5,10 +5,8 @@ class Solution {
         while(left<right)
         {
             ch = s[left];
-            s[left] = s[right];
-            s[right] = ch;
-            left++;
-            right--;
+            s[left++] = s[right];
+            s[right--] = ch;
         }
     }
 }
