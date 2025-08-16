@@ -99,6 +99,7 @@ This project is open-source under the MIT License.
 | [0238-product-of-array-except-self](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0792-binary-search) |
@@ -249,6 +250,7 @@ This project is open-source under the MIT License.
 | [0141-linked-list-cycle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1019-squares-of-a-sorted-array) |
