@@ -9,10 +9,7 @@ class Solution {
         }
         if(d==-1)return num;
         d=(int)Math.pow(10,d);
-        x = num%d;
-        num = num/d + 3;
-        num = (num*d) + x;
-
+        num = (num/d + 3)*d + (num%d);
         return num;
     }
 }
