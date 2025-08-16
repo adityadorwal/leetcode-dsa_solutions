@@ -1,12 +1,14 @@
 class Solution {
     public int maxArea(int[] height) {
-        int p=0,q=height.length-1,max=0;
-        while(p<q)
+        int left=0,right =height.length-1,max;
+        max = Math.min(height[left],height[right]);
+        while(left<right)
         {
-            max=Math.max(max,(Math.min(height[p],height[q])*(q-p)));
-            if(height[p]<height[q])p++;
-            else q--;
+            int pro = (int)Math.min(height[left],height[right]) * (right-left);
+            max = Math.max(max,pro);
+            if(height[left]<height[right])left++;
+            else right--;
         }
-        return(max);
+        return max;
     }
 }
