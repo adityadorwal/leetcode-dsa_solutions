@@ -10,8 +10,6 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        if(head.next == null || head.next.next == null)return;
-
         ListNode slow=head,fast=head;
         Stack<ListNode> stk = new Stack<>();
         stk.push(slow);
@@ -39,6 +37,6 @@ class Solution {
             slow = slow.next;
             last.next = prev;
         }
-        stk.pop().next = last;
+        head.next = last;
     }    
 }
