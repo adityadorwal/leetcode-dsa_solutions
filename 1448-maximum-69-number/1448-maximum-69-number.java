@@ -8,8 +8,6 @@ class Solution {
             c++;
         }
         if(d==-1)return num;
-        System.out.println(d);
-
         d=(int)Math.pow(10,d);
         x = num%d;
         num = num/d + 3;
