@@ -166,6 +166,7 @@ This project is open-source under the MIT License.
 | [0342-power-of-four](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0412-fizz-buzz) |
+| [0867-new-21-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1448-maximum-69-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Recursion
@@ -195,6 +196,7 @@ This project is open-source under the MIT License.
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
+| [0867-new-21-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Sorting
 |  |
@@ -302,6 +304,7 @@ This project is open-source under the MIT License.
 | [0076-minimum-window-substring](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0867-new-21-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -483,4 +486,8 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0278-first-bad-version) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
