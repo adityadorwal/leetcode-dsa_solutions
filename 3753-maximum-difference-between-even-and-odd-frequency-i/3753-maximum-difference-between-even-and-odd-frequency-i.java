@@ -7,7 +7,6 @@ class Solution {
             char ch = s.charAt(i);
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
-        System.out.println(map);
         for(char i:map.keySet())
         {
             int num = map.get(i);
