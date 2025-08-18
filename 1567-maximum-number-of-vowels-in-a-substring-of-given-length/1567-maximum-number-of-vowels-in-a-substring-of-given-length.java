@@ -14,6 +14,7 @@ class Solution {
             ch = s.charAt(i-k);
             if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u')sum--;
             max_vo = Math.max(max_vo,sum);
+            if(max_vo==k)return k;
         }
         return max_vo;
     }
