@@ -12,7 +12,7 @@ class Solution {
                 subcost-=que.poll();
                 left++;
             }
-            match = Math.max(match,right-left+1);
+            match = Math.max(match,que.size());
         }
         return match;
     }
