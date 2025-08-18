@@ -39,7 +39,6 @@ class Solution {
                 if(count>0)s1_len--;
                 if(s1_len == 0)return true;
             }
-            System.out.println(remo_ch+" "+ch);
         }
         return false;
     }
