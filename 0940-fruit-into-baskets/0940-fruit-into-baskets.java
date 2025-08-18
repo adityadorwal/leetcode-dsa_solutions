@@ -30,7 +30,6 @@ class Solution {
                 }
             }
             map.put(new_num,right);
-            System.out.println(left+" "+right);
             max_len = Math.max(right-left+1,max_len);
         }
         return max_len;
