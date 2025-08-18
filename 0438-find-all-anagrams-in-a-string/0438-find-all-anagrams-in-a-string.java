@@ -9,7 +9,6 @@ class Solution {
             char ch = p.charAt(i);
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
-        System.out.println(map);
         int len = p_len;
 
         for(int i=0;i<p_len;i++)
@@ -22,7 +21,6 @@ class Solution {
                 if(c>0)len--;
             }
         }
-        System.out.println(map+" "+len);
         if(len == 0)list.add(0);
     
         for(int i=p_len ; i<s_len ; i++)
@@ -41,7 +39,6 @@ class Solution {
                 if(c>0)len--;
                 map.put(ch,c-1);
             }
-            System.out.println(len);
             if(len == 0)list.add(i-p_len+1);
         }
         return (list);
