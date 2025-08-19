@@ -2,15 +2,10 @@ class Solution {
     public long zeroFilledSubarray(int[] nums) {
         long subarray = 0;
         int c=0;
-        for(int i=0 ; i<nums.length ; i++)
+        for(int i : nums)
         {
-            if(nums[i] != 0)
-            c=0;
-            else
-            {
-                c++;
-                subarray+=c;
-            }
+            c=(i==0)?c+1:0;
+            subarray+=c;
         }
         return subarray;
     }
