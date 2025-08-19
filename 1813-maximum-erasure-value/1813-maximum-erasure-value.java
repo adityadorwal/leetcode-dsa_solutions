@@ -5,10 +5,7 @@ class Solution {
         for(int i:nums)
         {
             sum += i;
-            if(map.containsKey(i))
-            {
-                left=Math.max(left,map.get(i));
-            }
+            if(map.containsKey(i))left=Math.max(left,map.get(i));
             map.put(i,sum);
             max = Math.max(max,sum-left);
         }
