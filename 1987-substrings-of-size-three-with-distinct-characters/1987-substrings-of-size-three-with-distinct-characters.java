@@ -8,7 +8,6 @@ class Solution {
             while(set.contains(ch))set.remove(s.charAt(left++));
             set.add(ch);
             if(right-left+1 >= 3)c++;
-            System.out.println (right+" "+left);
         }
         return c;
     }
