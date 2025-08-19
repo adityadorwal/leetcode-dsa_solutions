@@ -4,9 +4,12 @@ class Solution {
         for (int i: nums)
         {
             if(i==1)c++;
-            else c=0;
-            max_ones = Math.max(c,max_ones);
+            else 
+            {
+                max_ones = Math.max(c,max_ones);
+                c=0;
+            }
         }
-        return max_ones;
+        return Math.max(c,max_ones);
     }
 }
