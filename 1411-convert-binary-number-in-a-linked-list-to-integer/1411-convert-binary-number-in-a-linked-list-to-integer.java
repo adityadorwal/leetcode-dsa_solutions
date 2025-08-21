@@ -19,12 +19,9 @@ class Solution {
                 n = (n << c) + 1;
                 c=1;
             }
-            System.out.println(n);
-
             head = head .next;
         }
         if(c>1)n = (n << c-1);
-        System.out.println(n);
         return n;
     }
 }
