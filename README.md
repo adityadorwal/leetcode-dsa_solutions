@@ -117,6 +117,7 @@ This project is open-source under the MIT License.
 | [1206-corporate-flight-bookings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1206-corporate-flight-bookings) |
 | [1293-three-consecutive-odds](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1813-maximum-erasure-value) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -214,6 +215,7 @@ This project is open-source under the MIT License.
 | [0152-maximum-product-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
 | [0867-new-21-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0867-new-21-game) |
+| [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Sorting
 |  |
@@ -309,12 +311,14 @@ This project is open-source under the MIT License.
 | [0394-decode-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0883-car-fleet) |
+| [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0883-car-fleet) |
+| [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Queue
 |  |
 | ------- |
@@ -482,6 +486,7 @@ This project is open-source under the MIT License.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Binary Search Tree
 |  |
 | ------- |
