@@ -310,6 +310,7 @@ This project is open-source under the MIT License.
 | [0143-reorder-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0496-next-greater-element-i) |
@@ -328,6 +329,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
@@ -403,6 +405,7 @@ This project is open-source under the MIT License.
 | [0146-lru-cache](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1023-time-based-key-value-store) |
 ## Doubly-Linked List
