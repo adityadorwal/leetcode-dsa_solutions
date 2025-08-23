@@ -111,6 +111,7 @@ This project is open-source under the MIT License.
 | [0682-baseball-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0859-design-circular-deque) |
 | [0883-car-fleet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0940-fruit-into-baskets) |
@@ -167,6 +168,7 @@ This project is open-source under the MIT License.
 | [0206-reverse-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0234-palindrome-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0859-design-circular-deque](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
@@ -338,6 +340,7 @@ This project is open-source under the MIT License.
 | [0225-implement-stack-using-queues](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
 | ------- |
@@ -415,6 +418,7 @@ This project is open-source under the MIT License.
 | [0225-implement-stack-using-queues](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0859-design-circular-deque](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0859-design-circular-deque) |
 | [1023-time-based-key-value-store](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1023-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
