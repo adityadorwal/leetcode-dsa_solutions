@@ -184,6 +184,7 @@ This project is open-source under the MIT License.
 | [0202-happy-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0367-valid-perfect-square) |
@@ -566,4 +567,8 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0867-new-21-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
