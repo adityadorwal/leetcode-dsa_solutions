@@ -369,6 +369,7 @@ This project is open-source under the MIT License.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0239-sliding-window-maximum) |
+| [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -454,6 +455,7 @@ This project is open-source under the MIT License.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0572-subtree-of-another-tree) |
+| [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Tree
 |  |
@@ -487,6 +489,7 @@ This project is open-source under the MIT License.
 | [0133-clone-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -528,6 +531,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0133-clone-graph) |
+| [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
 ## Memoization
 |  |
 | ------- |
@@ -571,4 +575,8 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0319-bulb-switcher) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
