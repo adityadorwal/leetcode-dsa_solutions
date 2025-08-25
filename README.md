@@ -117,6 +117,7 @@ This project is open-source under the MIT License.
 | [0883-car-fleet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0940-fruit-into-baskets) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -236,6 +237,7 @@ This project is open-source under the MIT License.
 | [0088-merge-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0217-contains-duplicate) |
 | [0883-car-fleet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0883-car-fleet) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -347,6 +349,7 @@ This project is open-source under the MIT License.
 | [0232-implement-queue-using-stacks](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0859-design-circular-deque) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Sliding Window
 |  |
 | ------- |
@@ -546,6 +549,7 @@ This project is open-source under the MIT License.
 | [0498-diagonal-traverse](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0874-backspace-string-compare) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Bit Manipulation
 |  |
 | ------- |
