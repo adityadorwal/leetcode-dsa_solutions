@@ -106,6 +106,7 @@ This project is open-source under the MIT License.
 | [0304-range-sum-query-2d-immutable](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0679-24-game) |
@@ -521,6 +522,7 @@ This project is open-source under the MIT License.
 | [0074-search-a-2d-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0498-diagonal-traverse](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0498-diagonal-traverse) |
 | [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Binary Search Tree
 |  |
@@ -541,6 +543,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0874-backspace-string-compare) |
 ## Bit Manipulation
