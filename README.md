@@ -378,6 +378,7 @@ This project is open-source under the MIT License.
 | [0023-merge-k-sorted-lists](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0239-sliding-window-maximum) |
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -435,6 +436,7 @@ This project is open-source under the MIT License.
 | [0232-implement-queue-using-stacks](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0859-design-circular-deque) |
 | [1023-time-based-key-value-store](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1023-time-based-key-value-store) |
 ## Doubly-Linked List
@@ -486,6 +488,7 @@ This project is open-source under the MIT License.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -519,6 +522,7 @@ This project is open-source under the MIT License.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Hash Function
 |  |
 | ------- |
@@ -537,6 +541,7 @@ This project is open-source under the MIT License.
 | [0098-validate-binary-search-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Graph
 |  |
 | ------- |
@@ -592,4 +597,8 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
