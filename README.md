@@ -138,6 +138,7 @@ This project is open-source under the MIT License.
 | [2432-number-of-zero-filled-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +237,7 @@ This project is open-source under the MIT License.
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sorting
 |  |
 | ------- |
@@ -557,6 +559,7 @@ This project is open-source under the MIT License.
 | [0695-max-area-of-island](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0733-flood-fill) |
 | [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -573,6 +576,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0070-climbing-stairs) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Simulation
 |  |
 | ------- |
