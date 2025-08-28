@@ -140,6 +140,7 @@ This project is open-source under the MIT License.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,6 +254,7 @@ This project is open-source under the MIT License.
 | [0883-car-fleet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0883-car-fleet) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -565,6 +567,7 @@ This project is open-source under the MIT License.
 | [0733-flood-fill](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0733-flood-fill) |
 | [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search Tree
 |  |
 | ------- |
