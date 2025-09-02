@@ -456,6 +456,7 @@ This project is open-source under the MIT License.
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0022-generate-parentheses) |
 | [0679-24-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0679-24-game) |
+| [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Design
 |  |
 | ------- |
@@ -502,6 +503,7 @@ This project is open-source under the MIT License.
 | [0733-flood-fill](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Tree
 |  |
 | ------- |
@@ -541,6 +543,7 @@ This project is open-source under the MIT License.
 | [0695-max-area-of-island](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -594,6 +597,7 @@ This project is open-source under the MIT License.
 | [0133-clone-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Memoization
 |  |
 | ------- |
