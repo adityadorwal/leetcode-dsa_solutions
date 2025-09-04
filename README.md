@@ -223,6 +223,7 @@ This project is open-source under the MIT License.
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
