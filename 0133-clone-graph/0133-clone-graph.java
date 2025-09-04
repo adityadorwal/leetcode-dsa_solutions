@@ -19,32 +19,41 @@ class Node {
 */
 
 class Solution {
-    public Node cloneGraph(Node node) {
-        
-        HashMap<Node,Node> map = new HashMap<>();
-        Deque<Node> queue = new LinkedList<>();
 
-        if(node == null)return null;
+    public void dfs(Deque<Node> que,HashMap<Integer,Node> map)
+    {
+        if(que.isEmpty())return;
 
-        map.put(node,new Node(node.val));
-        queue.offer(node);
+        Node temp=que.poll();
+        Node node=map.get(temp.val);
 
-
-        while(!queue.isEmpty())
+        for(Node i:temp.neighbors)
         {
-            Node curr = queue.poll();
-            Node currClone = map.get(curr);
-
-            for (Node neighbor : curr.neighbors)
+            int val = i.val;
+            if(!map.containsKey(val))
             {
-                if (!map.containsKey(neighbor))
-                {
-                    map.put(neighbor, new Node(neighbor.val));
-                    queue.offer(neighbor);
-                }
-                currClone.neighbors.add(map.get(neighbor));
+                Node new_node = new Node(val);
+                que.offer(i);
+                map.put(val,new_node);
             }
+            node.neighbors.add(map.get(val));
         }
-        return map.get(node);
+        dfs(que,map);
+    }
+    
+    public Node cloneGraph(Node node) {
+        if(node==null)return null;
+        Node dummy = new Node(node.val);
+        Deque<Node> que = new ArrayDeque<>();
+        HashMap<Integer,Node> map = new HashMap<>();
+
+        Node head=dummy;
+        que.offer(node);
+        
+        map.put(node.val,dummy);
+    
+        dfs(que,map);
+
+        return head;
     }
 }
