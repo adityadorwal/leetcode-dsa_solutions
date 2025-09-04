@@ -19,41 +19,18 @@ class Node {
 */
 
 class Solution {
+    private Map<Node, Node> map = new HashMap<>();
 
-    public void dfs(Deque<Node> que,HashMap<Integer,Node> map)
-    {
-        if(que.isEmpty())return;
-
-        Node temp=que.poll();
-        Node node=map.get(temp.val);
-
-        for(Node i:temp.neighbors)
-        {
-            int val = i.val;
-            if(!map.containsKey(val))
-            {
-                Node new_node = new Node(val);
-                que.offer(i);
-                map.put(val,new_node);
-            }
-            node.neighbors.add(map.get(val));
-        }
-        dfs(que,map);
-    }
-    
     public Node cloneGraph(Node node) {
-        if(node==null)return null;
-        Node dummy = new Node(node.val);
-        Deque<Node> que = new ArrayDeque<>();
-        HashMap<Integer,Node> map = new HashMap<>();
-
-        Node head=dummy;
-        que.offer(node);
+        if (node == null) return null;
+        if (map.containsKey(node)) return map.get(node);  // already cloned
         
-        map.put(node.val,dummy);
-    
-        dfs(que,map);
-
-        return head;
+        Node clone = new Node(node.val);
+        map.put(node, clone);
+        
+        for (Node neighbor : node.neighbors) {
+            clone.neighbors.add(cloneGraph(neighbor)); // recursively clone neighbors
+        }
+        return clone;
     }
 }
