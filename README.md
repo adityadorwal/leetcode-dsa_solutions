@@ -131,6 +131,7 @@ This project is open-source under the MIT License.
 | [0981-delete-columns-to-make-sorted](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1127-last-stone-weight) |
@@ -570,6 +571,7 @@ This project is open-source under the MIT License.
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
@@ -612,6 +614,7 @@ This project is open-source under the MIT License.
 | [0542-01-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1876-map-of-highest-peak) |
