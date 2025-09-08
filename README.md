@@ -223,6 +223,7 @@ This project is open-source under the MIT License.
 | [0867-new-21-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1448-maximum-69-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
