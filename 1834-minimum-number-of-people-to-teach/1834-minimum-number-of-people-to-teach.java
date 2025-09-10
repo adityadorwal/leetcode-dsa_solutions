@@ -1,13 +1,7 @@
 class Solution {
     public boolean commonlanguage(int []a, int []b)
     {
-        for(int i:a)
-        {
-            for(int j:b)
-            {
-                if(i==j)return true;
-            }
-        }
+        for(int i:a)for(int j:b)if(i==j)return true;
         return false;
     }
     public int minimumTeachings(int n, int[][] languages, int[][] friendships) {
@@ -20,8 +14,6 @@ class Solution {
                 set.add(i[1]);
             }
         }
-
-        System.out.println(set);
         n=set.size();
         if(n==0)return 0;
 
@@ -38,7 +30,6 @@ class Solution {
         {
             max=Math.max(max,map.get(i));
         }
-        System.out.println(map);
         return n-max;
     }
 }
