@@ -139,6 +139,7 @@ This project is open-source under the MIT License.
 | [1171-shortest-path-in-binary-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1206-corporate-flight-bookings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1206-corporate-flight-bookings) |
 | [1293-three-consecutive-odds](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -435,6 +436,7 @@ This project is open-source under the MIT License.
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1127-last-stone-weight) |
+| [1325-path-with-maximum-probability](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1917-maximum-average-pass-ratio) |
 ## Monotonic Queue
@@ -654,6 +656,7 @@ This project is open-source under the MIT License.
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0871-keys-and-rooms) |
+| [1325-path-with-maximum-probability](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1325-path-with-maximum-probability) |
 ## Memoization
 |  |
 | ------- |
@@ -710,6 +713,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1325-path-with-maximum-probability) |
 ## Data Stream
 |  |
 | ------- |
