@@ -143,6 +143,7 @@ This project is open-source under the MIT License.
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -333,6 +334,7 @@ This project is open-source under the MIT License.
 | [1046-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1321-get-equal-substrings-within-budget](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1321-get-equal-substrings-within-budget) |
+| [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -433,6 +435,7 @@ This project is open-source under the MIT License.
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1127-last-stone-weight) |
+| [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1917-maximum-average-pass-ratio) |
 ## Monotonic Queue
 |  |
@@ -536,6 +539,7 @@ This project is open-source under the MIT License.
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0871-keys-and-rooms) |
+| [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 ## Tree
 |  |
 | ------- |
@@ -584,6 +588,7 @@ This project is open-source under the MIT License.
 | [1036-rotting-oranges](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
 |  |
@@ -629,6 +634,7 @@ This project is open-source under the MIT License.
 | [1117-as-far-from-land-as-possible](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1876-map-of-highest-peak) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -721,6 +727,7 @@ This project is open-source under the MIT License.
 | [0547-number-of-provinces](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0695-max-area-of-island) |
+| [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
