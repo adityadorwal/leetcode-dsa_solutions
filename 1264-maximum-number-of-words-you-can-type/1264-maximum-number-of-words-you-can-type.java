@@ -1,19 +1,21 @@
 class Solution {
-    public int canBeTypedWords(String text, String broken) {
-        int mask = 0 , len=text.length();
-        for (int i = 0; i < broken.length(); i++) mask = mask | (1 << (broken.charAt(i) - 97));
-
-        int count = 0;
-        boolean brokenWord = false;
-        for (int i = 0; i <= len; i++)
+    public int canBeTypedWords(String text, String brokenLetters) {
+        int mask=0;
+        for(int i=0;i<brokenLetters.length();i++)
         {
-            if (i<len && (mask & (1 << (text.charAt(i) - 97))) != 0)
-                brokenWord = true;
-            if (i == len || text.charAt(i) == ' ') {
-                if (!brokenWord) count++;
-                brokenWord = false;
+            mask |= 1<<(brokenLetters.charAt(i)-97);
+        }
+        int k=0,count=0;
+        for(int i=0;i<text.length();i++)
+        {
+            char ch = text.charAt(i);
+            if ((mask & (1<<(ch-'a'))) != 0)k = 1;
+            if(ch == ' ')
+            {
+                if(k==0)count++;
+                k=0;
             }
         }
-        return count;
+        return (k==0)?count+1:count;
     }
 }
