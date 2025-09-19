@@ -163,6 +163,7 @@ This project is open-source under the MIT License.
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +196,7 @@ This project is open-source under the MIT License.
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -499,6 +501,7 @@ This project is open-source under the MIT License.
 | [2887-sort-vowels-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
@@ -529,6 +532,7 @@ This project is open-source under the MIT License.
 | [1023-time-based-key-value-store](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1023-time-based-key-value-store) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3797-design-spreadsheet) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -668,6 +672,7 @@ This project is open-source under the MIT License.
 | [1876-map-of-highest-peak](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1876-map-of-highest-peak) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3797-design-spreadsheet) |
 ## Binary Search Tree
 |  |
 | ------- |
