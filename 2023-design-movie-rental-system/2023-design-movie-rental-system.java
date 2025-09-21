@@ -1,5 +1,3 @@
-import java.util.*;
-
 class MovieRentingSystem {
     // shop -> (movie -> price)
     List<Map<Integer, Integer>> priceMap;
@@ -54,12 +52,10 @@ class MovieRentingSystem {
         List<Integer> result = new ArrayList<>();
         if (!available.containsKey(movie)) return result;
 
-        Iterator<Record> it = available.get(movie).iterator();
-        int count = 0;
-        while (it.hasNext() && count < 5) {
-            result.add(it.next().shop);
-            count++;
-        }
+        for (Record rec : available.get(movie)) {
+            result.add(rec.shop);
+            if (result.size() == 5) break;
+        }   
         return result;
     }
 
@@ -84,12 +80,10 @@ class MovieRentingSystem {
     // report up to 5 cheapest rented movies
     public List<List<Integer>> report() {
         List<List<Integer>> result = new ArrayList<>();
-        Iterator<Record> it = rented.iterator();
-        int count = 0;
-        while (it.hasNext() && count < 5) {
-            Record rec = it.next();
+        
+        for (Record rec : rented) {
             result.add(Arrays.asList(rec.shop, rec.movie));
-            count++;
+            if (result.size() == 5) break;
         }
         return result;
     }
