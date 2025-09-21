@@ -152,6 +152,7 @@ This project is open-source under the MIT License.
 | [1834-minimum-number-of-people-to-teach](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1876-map-of-highest-peak](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1876-map-of-highest-peak) |
 | [1917-maximum-average-pass-ratio](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
@@ -193,6 +194,7 @@ This project is open-source under the MIT License.
 | [1813-maximum-erasure-value](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2023-design-movie-rental-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -459,6 +461,7 @@ This project is open-source under the MIT License.
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3678-design-task-manager) |
 ## Monotonic Queue
@@ -530,6 +533,7 @@ This project is open-source under the MIT License.
 | [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0859-design-circular-deque) |
 | [1023-time-based-key-value-store](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1023-time-based-key-value-store) |
+| [2023-design-movie-rental-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3797-design-spreadsheet) |
@@ -803,6 +807,7 @@ This project is open-source under the MIT License.
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
