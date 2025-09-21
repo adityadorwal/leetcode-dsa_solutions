@@ -10,6 +10,7 @@ class Solution {
             for(int j[]:flights)
             {
                 int u=j[0],v=j[1],w=j[2];
+
                 if(dist[u] != Integer.MAX_VALUE && dist[u]+w < temp[v])
                 temp[v] = dist[u]+w;
             }
