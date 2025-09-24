@@ -181,6 +181,7 @@ This project is open-source under the MIT License.
 | [0141-linked-list-cycle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -229,6 +230,7 @@ This project is open-source under the MIT License.
 | [0009-palindrome-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0204-count-primes) |
@@ -489,6 +491,7 @@ This project is open-source under the MIT License.
 | [0076-minimum-window-substring](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0394-decode-string) |
