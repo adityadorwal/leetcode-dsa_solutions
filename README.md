@@ -111,6 +111,7 @@ This project is open-source under the MIT License.
 | [0283-move-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0485-max-consecutive-ones) |
@@ -285,6 +286,7 @@ This project is open-source under the MIT License.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -322,6 +324,7 @@ This project is open-source under the MIT License.
 | [0209-minimum-size-subarray-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1206-corporate-flight-bookings) |
@@ -357,6 +360,7 @@ This project is open-source under the MIT License.
 | [0240-search-a-2d-matrix-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0907-koko-eating-bananas) |
@@ -396,6 +400,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
