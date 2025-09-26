@@ -579,6 +579,7 @@ This project is open-source under the MIT License.
 | [0130-surrounded-regions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -629,6 +630,7 @@ This project is open-source under the MIT License.
 | [0130-surrounded-regions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -707,6 +709,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
@@ -812,6 +815,7 @@ This project is open-source under the MIT License.
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0207-course-schedule) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Game Theory
