@@ -1,25 +1,48 @@
+// class Solution {
+//     public int triangleNumber(int[] nums) {
+//         Arrays.sort(nums);
+//         int size = nums.length;
+//         int result=0;
+//         if(size<3)return 0;
+//         for(int i=0;i<size-2;i++)
+//         {
+//             for(int j=i+1;j<size-1;j++)
+//             {
+//                 int sum = nums[i]+nums[j];
+//                 int left = j+1;
+//                 int right = size-1;
+//                 while(left<=right)
+//                 {
+//                     int mid = (left+right)/2;
+//                     if(nums[mid]>=sum) right=mid-1;
+//                     else left=mid+1;
+//                 }
+//                 result+=(right-j);
+//             }
+//         }
+//         return result;
+//     }
+// }
+
 class Solution {
     public int triangleNumber(int[] nums) {
         Arrays.sort(nums);
-        int size = nums.length;
-        int result=0;
-        if(size<3)return 0;
-        for(int i=0;i<size-2;i++)
+        int n = nums.length;
+        int count = 0;
+
+        for(int k=n-1; k>=2; k--)
         {
-            for(int j=i+1;j<size-1;j++)
+            int i = 0, j = k-1;
+            while(i < j)
             {
-                int sum = nums[i]+nums[j];
-                int left = j+1;
-                int right = size-1;
-                while(left<=right)
+                if(nums[i] + nums[j] > nums[k])
                 {
-                    int mid = (left+right)/2;
-                    if(nums[mid]>=sum) right=mid-1;
-                    else left=mid+1;
+                    count += (j - i);      
+                    j--;
                 }
-                result+=(right-j);
+                else i++; 
             }
         }
-        return result;
+        return count;
     }
 }
