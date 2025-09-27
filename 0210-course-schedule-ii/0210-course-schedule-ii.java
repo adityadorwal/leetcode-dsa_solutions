@@ -45,7 +45,6 @@ class Solution {
     }
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         List<List<Integer>>list = new ArrayList<>();
-        Queue<Integer> que = new ArrayDeque<>();
         int dist[] = new int[numCourses];
         int result[] = new int[numCourses];
 
