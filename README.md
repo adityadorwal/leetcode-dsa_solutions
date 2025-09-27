@@ -96,6 +96,7 @@ This project is open-source under the MIT License.
 | [0120-triangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0162-find-peak-element) |
@@ -750,6 +751,7 @@ This project is open-source under the MIT License.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0342-power-of-four) |
