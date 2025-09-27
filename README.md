@@ -180,6 +180,7 @@ This project is open-source under the MIT License.
 | [0049-group-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0141-linked-list-cycle) |
@@ -504,6 +505,7 @@ This project is open-source under the MIT License.
 | [0049-group-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -635,6 +637,7 @@ This project is open-source under the MIT License.
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0200-number-of-islands) |
