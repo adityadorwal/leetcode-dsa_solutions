@@ -140,6 +140,7 @@ This project is open-source under the MIT License.
 | [1018-largest-perimeter-triangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1117-as-far-from-land-as-possible](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1117-as-far-from-land-as-possible) |
@@ -199,6 +200,7 @@ This project is open-source under the MIT License.
 | [0940-fruit-into-baskets](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1023-time-based-key-value-store) |
+| [1039-find-the-town-judge](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -734,6 +736,7 @@ This project is open-source under the MIT License.
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0871-keys-and-rooms) |
+| [1039-find-the-town-judge](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
