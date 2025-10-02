@@ -86,6 +86,7 @@ This project is open-source under the MIT License.
 | [0053-maximum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0088-merge-sorted-array) |
@@ -519,6 +520,7 @@ This project is open-source under the MIT License.
 | [0032-longest-valid-parentheses](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0165-compare-version-numbers) |
@@ -561,6 +563,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Design
@@ -592,6 +595,7 @@ This project is open-source under the MIT License.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0100-same-tree) |
@@ -709,6 +713,7 @@ This project is open-source under the MIT License.
 | ------- |
 | [0036-valid-sudoku](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0240-search-a-2d-matrix-ii) |
