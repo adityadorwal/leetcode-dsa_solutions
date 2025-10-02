@@ -623,6 +623,7 @@ This project is open-source under the MIT License.
 | [0733-flood-fill](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0801-is-graph-bipartite](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0871-keys-and-rooms) |
@@ -674,6 +675,7 @@ This project is open-source under the MIT License.
 | [0695-max-area-of-island](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0871-keys-and-rooms) |
@@ -749,6 +751,7 @@ This project is open-source under the MIT License.
 | [0547-number-of-provinces](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0871-keys-and-rooms) |
@@ -843,6 +846,7 @@ This project is open-source under the MIT License.
 | [0547-number-of-provinces](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0801-is-graph-bipartite) |
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Bucket Sort
