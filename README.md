@@ -764,6 +764,7 @@ This project is open-source under the MIT License.
 | [0922-possible-bipartition](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1325-path-with-maximum-probability) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -855,6 +856,7 @@ This project is open-source under the MIT License.
 | [0695-max-area-of-island](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0922-possible-bipartition) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Bucket Sort
