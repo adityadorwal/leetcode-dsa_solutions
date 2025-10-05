@@ -174,6 +174,7 @@ This project is open-source under the MIT License.
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -275,6 +276,7 @@ This project is open-source under the MIT License.
 | [3279-alice-and-bob-playing-flower-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -353,6 +355,7 @@ This project is open-source under the MIT License.
 | [1206-corporate-flight-bookings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1206-corporate-flight-bookings) |
 | [1321-get-equal-substrings-within-budget](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1603-running-sum-of-1d-array) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
