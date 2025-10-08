@@ -169,6 +169,7 @@ This project is open-source under the MIT License.
 | [2106-find-greatest-common-divisor-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -345,6 +346,7 @@ This project is open-source under the MIT License.
 | [0987-reveal-cards-in-increasing-order](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -408,6 +410,7 @@ This project is open-source under the MIT License.
 | [1321-get-equal-substrings-within-budget](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1612-avoid-flood-in-the-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -436,6 +439,7 @@ This project is open-source under the MIT License.
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
