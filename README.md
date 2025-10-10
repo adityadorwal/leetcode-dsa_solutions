@@ -178,6 +178,7 @@ This project is open-source under the MIT License.
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3644-minimum-positive-sum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -368,6 +369,7 @@ This project is open-source under the MIT License.
 | [1206-corporate-flight-bookings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1206-corporate-flight-bookings) |
 | [1321-get-equal-substrings-within-budget](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1603-running-sum-of-1d-array) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3644-minimum-positive-sum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3731-sum-of-variable-length-subarrays) |
