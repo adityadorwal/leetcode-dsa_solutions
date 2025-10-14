@@ -181,6 +181,7 @@ This project is open-source under the MIT License.
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3731-sum-of-variable-length-subarrays) |
