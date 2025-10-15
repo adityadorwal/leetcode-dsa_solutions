@@ -8,18 +8,14 @@ class Solution {
 
             else
             {
-                if(pre != 0)
-                {
-                    max = Math.max(max,Math.min(count,pre));
-                }
-                max = Math.max(max,count/2);
+                max = Math.max(Math.max(max,Math.min(count,pre)),count/2);
                 
                 pre = count;
                 count=1;
             }
             num = a;
         }
-        max = Math.max(count/2,Math.max(max,Math.min(count,pre)));
+        max = Math.max(Math.max(max,Math.min(count,pre)),count/2);
         return max;
     }
 }
