@@ -212,6 +212,7 @@ This project is open-source under the MIT License.
 | [0166-fraction-to-recurring-decimal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0389-find-the-difference) |
@@ -585,6 +586,7 @@ This project is open-source under the MIT License.
 | [0127-word-ladder](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0205-isomorphic-strings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0389-find-the-difference) |
