@@ -15,8 +15,14 @@ class Solution {
 
         while(curr != null)
         {
-            if(curr.val == val) pre.next = curr.next;
-            else pre = curr;
+            if(curr.val == val)
+            {
+                pre.next = curr.next;
+            }
+            else
+            {
+                pre = curr;
+            }
             curr = curr.next;
         }
         return head;
