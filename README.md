@@ -606,6 +606,7 @@ This project is open-source under the MIT License.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
@@ -697,6 +698,7 @@ This project is open-source under the MIT License.
 | [0871-keys-and-rooms](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0922-possible-bipartition) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
@@ -756,6 +758,7 @@ This project is open-source under the MIT License.
 | [1117-as-far-from-land-as-possible](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -881,6 +884,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0204-count-primes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Counting
