@@ -185,6 +185,7 @@ This project is open-source under the MIT License.
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -374,6 +375,7 @@ This project is open-source under the MIT License.
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
 |  |
@@ -389,6 +391,7 @@ This project is open-source under the MIT License.
 | [1321-get-equal-substrings-within-budget](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -441,6 +444,7 @@ This project is open-source under the MIT License.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -541,6 +545,7 @@ This project is open-source under the MIT License.
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3644-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
