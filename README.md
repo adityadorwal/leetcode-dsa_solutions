@@ -302,6 +302,7 @@ This project is open-source under the MIT License.
 | [3462-vowels-game-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
@@ -626,6 +627,7 @@ This project is open-source under the MIT License.
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
@@ -873,6 +875,7 @@ This project is open-source under the MIT License.
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |
@@ -893,6 +896,7 @@ This project is open-source under the MIT License.
 | [0204-count-primes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -996,6 +1000,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
