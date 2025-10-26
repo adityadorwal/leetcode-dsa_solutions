@@ -4,7 +4,7 @@ class Bank {
     public Bank(long[] balance) {
         total_account = balance.length;
         acc = new long[total_account];
-        acc = balance.clone();
+        for(int i=0;i<total_account;i++)acc[i] = balance[i];
     }
     
     public boolean transfer(int account1, int account2, long money) {
