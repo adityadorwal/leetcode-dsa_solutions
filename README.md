@@ -170,6 +170,7 @@ This project is open-source under the MIT License.
 | [2023-design-movie-rental-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2169-simple-bank-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -235,6 +236,7 @@ This project is open-source under the MIT License.
 | [1834-minimum-number-of-people-to-teach](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2023-design-movie-rental-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -664,6 +666,7 @@ This project is open-source under the MIT License.
 | [0859-design-circular-deque](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0859-design-circular-deque) |
 | [1023-time-based-key-value-store](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1023-time-based-key-value-store) |
 | [2023-design-movie-rental-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3797-design-spreadsheet) |
@@ -876,6 +879,7 @@ This project is open-source under the MIT License.
 | [1642-water-bottles](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3336-water-bottles-ii) |
