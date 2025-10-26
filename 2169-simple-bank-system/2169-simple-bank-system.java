@@ -3,8 +3,7 @@ class Bank {
     int total_account;
     public Bank(long[] balance) {
         total_account = balance.length;
-        acc = new long[total_account];
-        for(int i=0;i<total_account;i++)acc[i] = balance[i];
+        acc = balance;
     }
     
     public boolean transfer(int account1, int account2, long money) {
