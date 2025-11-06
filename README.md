@@ -206,6 +206,7 @@ This project is open-source under the MIT License.
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3797-design-spreadsheet) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -257,6 +258,7 @@ This project is open-source under the MIT License.
 | [3678-design-task-manager](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -608,6 +610,7 @@ This project is open-source under the MIT License.
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -752,6 +755,7 @@ This project is open-source under the MIT License.
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3863-power-grid-maintenance) |
 ## Tree
 |  |
 | ------- |
@@ -813,6 +817,7 @@ This project is open-source under the MIT License.
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -895,6 +900,7 @@ This project is open-source under the MIT License.
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3863-power-grid-maintenance) |
 ## Memoization
 |  |
 | ------- |
@@ -1005,6 +1011,7 @@ This project is open-source under the MIT License.
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3863-power-grid-maintenance) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1041,6 +1048,7 @@ This project is open-source under the MIT License.
 | [2023-design-movie-rental-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3863-power-grid-maintenance) |
 ## Combinatorics
 |  |
 | ------- |
