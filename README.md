@@ -181,6 +181,7 @@ This project is open-source under the MIT License.
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -419,6 +420,7 @@ This project is open-source under the MIT License.
 | [1206-corporate-flight-bookings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1206-corporate-flight-bookings) |
 | [1321-get-equal-substrings-within-budget](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -473,6 +475,7 @@ This project is open-source under the MIT License.
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -519,6 +522,7 @@ This project is open-source under the MIT License.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Stack
 |  |
@@ -563,6 +567,7 @@ This project is open-source under the MIT License.
 | [0987-reveal-cards-in-increasing-order](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Sliding Window
 |  |
 | ------- |
@@ -581,6 +586,7 @@ This project is open-source under the MIT License.
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
