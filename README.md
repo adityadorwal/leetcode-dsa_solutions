@@ -119,6 +119,7 @@ This project is open-source under the MIT License.
 | [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0498-diagonal-traverse) |
@@ -363,6 +364,7 @@ This project is open-source under the MIT License.
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -655,6 +657,7 @@ This project is open-source under the MIT License.
 | [0412-fizz-buzz](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0474-ones-and-zeroes) |
 | [0551-student-attendance-record-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
