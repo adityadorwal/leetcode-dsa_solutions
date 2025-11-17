@@ -159,6 +159,7 @@ This project is open-source under the MIT License.
 | [1325-path-with-maximum-probability](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1612-avoid-flood-in-the-city) |
