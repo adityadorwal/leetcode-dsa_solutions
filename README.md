@@ -131,6 +131,7 @@ This project is open-source under the MIT License.
 | [0679-24-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0695-max-area-of-island) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0792-binary-search) |
