@@ -301,6 +301,7 @@ This project is open-source under the MIT License.
 | [0009-palindrome-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0202-happy-number) |
@@ -713,6 +714,7 @@ This project is open-source under the MIT License.
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0089-gray-code) |
 | [0679-24-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -963,6 +965,7 @@ This project is open-source under the MIT License.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0191-number-of-1-bits) |
