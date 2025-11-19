@@ -119,6 +119,7 @@ This project is open-source under the MIT License.
 | [0407-trapping-rain-water-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0485-max-consecutive-ones) |
@@ -245,6 +246,7 @@ This project is open-source under the MIT License.
 | [0389-find-the-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0389-find-the-difference) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0567-permutation-in-string) |
