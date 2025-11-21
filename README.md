@@ -261,6 +261,7 @@ This project is open-source under the MIT License.
 | [1612-avoid-flood-in-the-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2023-design-movie-rental-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2169-simple-bank-system) |
@@ -446,6 +447,7 @@ This project is open-source under the MIT License.
 | [1206-corporate-flight-bookings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1206-corporate-flight-bookings) |
 | [1321-get-equal-substrings-within-budget](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -697,6 +699,7 @@ This project is open-source under the MIT License.
 | [1636-number-of-substrings-with-only-1s](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -987,6 +990,7 @@ This project is open-source under the MIT License.
 | [0645-set-mismatch](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0645-set-mismatch) |
 | [1054-complement-of-base-10-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1054-complement-of-base-10-integer) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
