@@ -158,6 +158,7 @@ This project is open-source under the MIT License.
 | [1127-last-stone-weight](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1206-corporate-flight-bookings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1206-corporate-flight-bookings) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -391,6 +392,7 @@ This project is open-source under the MIT License.
 | [0867-new-21-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0867-new-21-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1117-as-far-from-land-as-possible) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -424,6 +426,7 @@ This project is open-source under the MIT License.
 | [0987-reveal-cards-in-increasing-order](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -547,6 +550,7 @@ This project is open-source under the MIT License.
 | [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
