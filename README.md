@@ -148,6 +148,7 @@ This project is open-source under the MIT License.
 | [0987-reveal-cards-in-increasing-order](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1006-vowel-spellchecker](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1039-find-the-town-judge) |
@@ -994,6 +995,7 @@ This project is open-source under the MIT License.
 | [0342-power-of-four](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0645-set-mismatch) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1054-complement-of-base-10-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1054-complement-of-base-10-integer) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
