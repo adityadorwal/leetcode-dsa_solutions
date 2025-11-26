@@ -192,6 +192,7 @@ This project is open-source under the MIT License.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2625-increment-submatrices-by-one) |
@@ -404,6 +405,7 @@ This project is open-source under the MIT License.
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -925,6 +927,7 @@ This project is open-source under the MIT License.
 | [1876-map-of-highest-peak](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1876-map-of-highest-peak) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3748-sort-matrix-by-diagonals) |
