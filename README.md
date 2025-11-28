@@ -816,6 +816,7 @@ This project is open-source under the MIT License.
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3863-power-grid-maintenance) |
 ## Tree
 |  |
@@ -838,6 +839,7 @@ This project is open-source under the MIT License.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
