@@ -168,6 +168,7 @@ This project is open-source under the MIT License.
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -265,6 +266,7 @@ This project is open-source under the MIT License.
 | [1264-maximum-number-of-words-you-can-type](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1590-make-sum-divisible-by-p](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -460,6 +462,7 @@ This project is open-source under the MIT License.
 | [1046-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1206-corporate-flight-bookings) |
 | [1321-get-equal-substrings-within-budget](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1321-get-equal-substrings-within-budget) |
+| [1590-make-sum-divisible-by-p](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
