@@ -98,6 +98,7 @@ This project is open-source under the MIT License.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0162-find-peak-element) |
@@ -322,6 +323,7 @@ This project is open-source under the MIT License.
 | [0069-sqrtx](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0202-happy-number) |
@@ -584,6 +586,7 @@ This project is open-source under the MIT License.
 | [0084-largest-rectangle-in-histogram](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0232-implement-queue-using-stacks) |
