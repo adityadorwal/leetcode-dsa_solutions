@@ -167,6 +167,7 @@ This project is open-source under the MIT License.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1580-shuffle-the-array) |
@@ -617,6 +618,7 @@ This project is open-source under the MIT License.
 | [0874-backspace-string-compare](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0883-car-fleet) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -631,6 +633,7 @@ This project is open-source under the MIT License.
 | [0496-next-greater-element-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0883-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
