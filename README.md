@@ -187,6 +187,7 @@ This project is open-source under the MIT License.
 | [2023-design-movie-rental-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2058-concatenation-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2169-simple-bank-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2169-simple-bank-system) |
@@ -367,6 +368,7 @@ This project is open-source under the MIT License.
 | [1817-calculate-money-in-leetcode-bank](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1925-count-square-sum-triples) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -438,6 +440,7 @@ This project is open-source under the MIT License.
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
