@@ -117,6 +117,7 @@ This project is open-source under the MIT License.
 | [0303-range-sum-query-immutable](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -708,6 +709,7 @@ This project is open-source under the MIT License.
 | [0215-kth-largest-element-in-an-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
