@@ -238,6 +238,7 @@ This project is open-source under the MIT License.
 | [3625-count-number-of-trapezoids-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3644-minimum-positive-sum-subarray) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -520,6 +521,7 @@ This project is open-source under the MIT License.
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3644-minimum-positive-sum-subarray) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -706,6 +708,7 @@ This project is open-source under the MIT License.
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3644-minimum-positive-sum-subarray) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
