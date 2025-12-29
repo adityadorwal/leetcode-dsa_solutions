@@ -289,6 +289,7 @@ This project is open-source under the MIT License.
 | [0560-subarray-sum-equals-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0940-fruit-into-baskets](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -797,6 +798,7 @@ This project is open-source under the MIT License.
 | [0551-student-attendance-record-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
+| [0756-pyramid-transition-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0874-backspace-string-compare](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -847,6 +849,7 @@ This project is open-source under the MIT License.
 | [0079-word-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0089-gray-code) |
 | [0679-24-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Design
@@ -1120,6 +1123,7 @@ This project is open-source under the MIT License.
 | [0342-power-of-four](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1054-complement-of-base-10-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1054-complement-of-base-10-integer) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
