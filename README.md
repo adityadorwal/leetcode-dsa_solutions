@@ -143,6 +143,7 @@ This project is open-source under the MIT License.
 | [0792-binary-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0840-magic-squares-in-grid) |
 | [0859-design-circular-deque](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0859-design-circular-deque) |
 | [0883-car-fleet](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0907-koko-eating-bananas) |
@@ -290,6 +291,7 @@ This project is open-source under the MIT License.
 | [0567-permutation-in-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -373,6 +375,7 @@ This project is open-source under the MIT License.
 | [0423-reconstruct-original-digits-from-english](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0679-24-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0867-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -1034,6 +1037,7 @@ This project is open-source under the MIT License.
 | [0695-max-area-of-island](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
