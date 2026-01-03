@@ -460,6 +460,7 @@ This project is open-source under the MIT License.
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1117-as-far-from-land-as-possible) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
