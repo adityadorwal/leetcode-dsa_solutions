@@ -175,6 +175,7 @@ This project is open-source under the MIT License.
 | [1325-path-with-maximum-probability](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -384,6 +385,7 @@ This project is open-source under the MIT License.
 | [0867-new-21-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0867-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
