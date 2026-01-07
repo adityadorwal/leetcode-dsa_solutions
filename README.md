@@ -933,6 +933,7 @@ This project is open-source under the MIT License.
 | [0871-keys-and-rooms](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0922-possible-bipartition) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
@@ -964,6 +965,7 @@ This project is open-source under the MIT License.
 | [0572-subtree-of-another-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
@@ -1032,6 +1034,7 @@ This project is open-source under the MIT License.
 | [0572-subtree-of-another-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
