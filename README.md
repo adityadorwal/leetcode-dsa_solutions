@@ -222,6 +222,7 @@ This project is open-source under the MIT License.
 | [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -320,6 +321,7 @@ This project is open-source under the MIT License.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1176,6 +1178,7 @@ This project is open-source under the MIT License.
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
