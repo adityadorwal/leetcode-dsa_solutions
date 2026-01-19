@@ -171,6 +171,7 @@ This project is open-source under the MIT License.
 | [1171-shortest-path-in-binary-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1206-corporate-flight-bookings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1206-corporate-flight-bookings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -543,6 +544,7 @@ This project is open-source under the MIT License.
 | [0560-subarray-sum-equals-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1206-corporate-flight-bookings) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1321-get-equal-substrings-within-budget](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1590-make-sum-divisible-by-p](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -603,6 +605,7 @@ This project is open-source under the MIT License.
 | [1023-time-based-key-value-store](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1321-get-equal-substrings-within-budget](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -1067,6 +1070,7 @@ This project is open-source under the MIT License.
 | [1036-rotting-oranges](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1753-path-with-minimum-effort) |
