@@ -20,7 +20,6 @@ class Solution {
                 word=false;
             }
             else word = true;
-
         }
         return str.toString().substring(0,str.length()-1);
     }
