@@ -648,6 +648,7 @@ This project is open-source under the MIT License.
 | [0234-palindrome-linked-list](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
@@ -820,6 +821,7 @@ This project is open-source under the MIT License.
 | [0205-isomorphic-strings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0412-fizz-buzz) |
