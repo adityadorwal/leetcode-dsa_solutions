@@ -468,6 +468,7 @@ This project is open-source under the MIT License.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0542-01-matrix) |
@@ -654,6 +655,7 @@ This project is open-source under the MIT License.
 | [0283-move-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0611-valid-triangle-number) |
@@ -832,6 +834,7 @@ This project is open-source under the MIT License.
 | [0344-reverse-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
