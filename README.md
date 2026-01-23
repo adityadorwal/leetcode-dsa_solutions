@@ -118,6 +118,7 @@ This project is open-source under the MIT License.
 | [0283-move-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -665,6 +666,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0611-valid-triangle-number) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
