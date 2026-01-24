@@ -157,6 +157,7 @@ This project is open-source under the MIT License.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1004-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -560,6 +561,7 @@ This project is open-source under the MIT License.
 | [0304-range-sum-query-2d-immutable](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1206-corporate-flight-bookings) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -620,6 +622,7 @@ This project is open-source under the MIT License.
 | [0792-binary-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1023-time-based-key-value-store](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -768,6 +771,7 @@ This project is open-source under the MIT License.
 | [0643-maximum-average-subarray-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
