@@ -1,27 +1,46 @@
 class Solution {
-    int start=0;
     public String decodeString(String s) {
-        int l=s.length(),num=0;
-        String result="";
-        char ch;
-        while(start<l)
+        Stack<String> stk = new Stack<>();
+        StringBuilder result = new StringBuilder();
+        int i=0, len = s.length();
+        int start=0;
+        while(i<len)
         {
-            ch = s.charAt(start);
-            if(ch=='[')
+            char ch = s.charAt(i);
+            if(Character.isDigit(ch))
             {
-                start++;
-                result = result + (decodeString(s)).repeat(num);
-                num=0;
+                if(stk.isEmpty())result.append(s.substring(start,i));
+                else if(i!=start)stk.push(s.substring(start,i));
+                start = i;
+                while(s.charAt(++i) != '[');
+                stk.push(s.substring(start,i));
+                stk.push("[");
+                start=i+1;
             }
-            else if(Character.isDigit(ch))
-            num = num*10+(ch-'0');
-            else if(ch==']')
-            return(result);
-            else
-            result+=ch;
-
-            start++;
+            else if(ch ==']')
+            {
+                StringBuilder temp = new StringBuilder();
+                String str = s.substring(start,i);
+                stk.push(str);
+                str =stk.pop();
+                while(str != "[")
+                {
+                    temp.insert(0,str);
+                    str = stk.pop();
+                }
+                int num = Integer.parseInt(stk.pop());
+                str = temp.toString();
+                for(int j=1;j<num;j++)
+                {
+                    temp.append(str);
+                }
+                if(stk.isEmpty())result.append(temp.toString());
+                else stk.push(temp.toString());
+                start=i+1;
+            }
+            i++;
         }
-        return result;
+        result.append(s.substring(start,i));
+        return result.toString();
     }
 }
