@@ -209,6 +209,7 @@ This project is open-source under the MIT License.
 | [1917-maximum-average-pass-ratio](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2058-concatenation-of-array) |
@@ -538,6 +539,7 @@ This project is open-source under the MIT License.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -786,6 +788,7 @@ This project is open-source under the MIT License.
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
