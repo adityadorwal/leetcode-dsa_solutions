@@ -132,6 +132,7 @@ This project is open-source under the MIT License.
 | [0498-diagonal-traverse](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0611-valid-triangle-number) |
 | [0636-exclusive-time-of-functions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -698,6 +699,7 @@ This project is open-source under the MIT License.
 | [0011-container-with-most-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0611-valid-triangle-number) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
