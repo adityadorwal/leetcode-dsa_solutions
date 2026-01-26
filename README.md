@@ -703,6 +703,7 @@ This project is open-source under the MIT License.
 | [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0611-valid-triangle-number) |
+| [0649-dota2-senate](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0649-dota2-senate) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -771,6 +772,7 @@ This project is open-source under the MIT License.
 | [0225-implement-stack-using-queues](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0859-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0933-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -882,6 +884,7 @@ This project is open-source under the MIT License.
 | [0551-student-attendance-record-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0649-dota2-senate) |
 | [0756-pyramid-transition-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0874-backspace-string-compare](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0944-delete-columns-to-make-sorted) |
