@@ -1016,6 +1016,7 @@ This project is open-source under the MIT License.
 | [0803-cheapest-flights-within-k-stops](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0871-keys-and-rooms) |
+| [0872-leaf-similar-trees](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0872-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0922-possible-bipartition) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1049,6 +1050,7 @@ This project is open-source under the MIT License.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1118,6 +1120,7 @@ This project is open-source under the MIT License.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Hash Function
