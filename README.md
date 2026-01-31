@@ -145,6 +145,7 @@ This project is open-source under the MIT License.
 | [0733-flood-fill](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0830-largest-triangle-area) |
@@ -640,6 +641,7 @@ This project is open-source under the MIT License.
 | [0367-valid-perfect-square](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0907-koko-eating-bananas) |
