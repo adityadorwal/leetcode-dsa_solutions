@@ -240,6 +240,7 @@ This project is open-source under the MIT License.
 | [2625-increment-submatrices-by-one](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -560,6 +561,7 @@ This project is open-source under the MIT License.
 | [2402-meeting-rooms-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2887-sort-vowels-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -1282,6 +1284,7 @@ This project is open-source under the MIT License.
 | [1925-count-square-sum-triples](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
