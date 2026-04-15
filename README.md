@@ -236,6 +236,7 @@ This project is open-source under the MIT License.
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2625-increment-submatrices-by-one) |
@@ -928,6 +929,7 @@ This project is open-source under the MIT License.
 | [2390-removing-stars-from-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3462-vowels-game-in-a-string) |
