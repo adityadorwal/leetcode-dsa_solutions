@@ -220,6 +220,7 @@ This project is open-source under the MIT License.
 | [2054-two-best-non-overlapping-events](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -736,6 +737,7 @@ This project is open-source under the MIT License.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3074-apple-redistribution-into-boxes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3074-apple-redistribution-into-boxes) |
