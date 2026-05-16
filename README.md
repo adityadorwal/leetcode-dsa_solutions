@@ -243,6 +243,7 @@ This project is open-source under the MIT License.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2625-increment-submatrices-by-one) |
+| [2784-check-if-array-is-good](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -355,6 +356,7 @@ This project is open-source under the MIT License.
 | [2352-equal-row-and-column-pairs](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2429-design-a-food-rating-system) |
+| [2784-check-if-array-is-good](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -569,6 +571,7 @@ This project is open-source under the MIT License.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2402-meeting-rooms-iii) |
+| [2784-check-if-array-is-good](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
