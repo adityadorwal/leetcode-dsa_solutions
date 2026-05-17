@@ -123,6 +123,7 @@ This project is open-source under the MIT License.
 | [0347-top-k-frequent-elements](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0396-rotate-function](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -427,6 +428,7 @@ This project is open-source under the MIT License.
 | [0326-power-of-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0679-24-game](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0679-24-game) |
@@ -504,6 +506,7 @@ This project is open-source under the MIT License.
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0542-01-matrix) |
