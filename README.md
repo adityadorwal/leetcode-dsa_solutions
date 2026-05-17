@@ -183,6 +183,7 @@ This project is open-source under the MIT License.
 | [1262-greatest-sum-divisible-by-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1044,6 +1045,7 @@ This project is open-source under the MIT License.
 | [0872-leaf-similar-trees](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0872-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0922-possible-bipartition) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1120,6 +1122,7 @@ This project is open-source under the MIT License.
 | [1117-as-far-from-land-as-possible](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1117-as-far-from-land-as-possible) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1306-jump-game-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1306-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
