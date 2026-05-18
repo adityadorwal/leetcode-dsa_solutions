@@ -186,6 +186,7 @@ This project is open-source under the MIT License.
 | [1293-three-consecutive-odds](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1325-path-with-maximum-probability) |
+| [1345-jump-game-iv](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1390-four-divisors) |
@@ -340,6 +341,7 @@ This project is open-source under the MIT License.
 | [1039-find-the-town-judge](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1039-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -1126,6 +1128,7 @@ This project is open-source under the MIT License.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1345-jump-game-iv) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
