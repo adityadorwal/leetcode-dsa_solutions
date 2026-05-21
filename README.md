@@ -252,6 +252,7 @@ This project is open-source under the MIT License.
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -368,6 +369,7 @@ This project is open-source under the MIT License.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -959,6 +961,7 @@ This project is open-source under the MIT License.
 | [2483-minimum-penalty-for-a-shop](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -972,6 +975,7 @@ This project is open-source under the MIT License.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
