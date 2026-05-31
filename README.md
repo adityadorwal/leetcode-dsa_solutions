@@ -228,6 +228,7 @@ This project is open-source under the MIT License.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2126-destroying-asteroids](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2169-simple-bank-system](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2169-simple-bank-system) |
@@ -583,6 +584,7 @@ This project is open-source under the MIT License.
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2092-find-all-people-with-secret) |
+| [2126-destroying-asteroids](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -761,6 +763,7 @@ This project is open-source under the MIT License.
 | [1917-maximum-average-pass-ratio](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3074-apple-redistribution-into-boxes](https://github.com/adityadorwal/leetcode-dsa_solutions/tree/master/3074-apple-redistribution-into-boxes) |
